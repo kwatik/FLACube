@@ -21,10 +21,3 @@
 1. Clone this repository:
    ```bash
    git clone git clone https://github.com/kwatik/FLACube.git
-   ```bash
-   cd FLACube
-   ```bash
-   php FLACube.php
-
-
-   ## FLACube support cross platform so dont worry if youre using windows, android termux or linux 
