@@ -16,8 +16,15 @@
 - yt-dlp (for downloading audio from YouTube)
 - pv (for progress visualization)
 
-### Installation
+# FLACube
 
-1. Clone this repository:
-   ```bash
-   git clone git clone https://github.com/kwatik/FLACube.git
+FLACube is a versatile script that supports cross-platform functionality, allowing you to run it on Windows, Android (via Termux), or Linux without any issues.
+
+## Usage
+
+To get started, clone the repository and run the script:
+
+```bash
+git clone https://github.com/kwatik/FLACube.git
+cd FLACube
+php FLACube.php
